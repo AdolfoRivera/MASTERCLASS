@@ -1,4 +1,5 @@
-/*=== MEDIA QUERY ===*/
+
+/*=== INICIO ===*/
 @import url(http://fonts.googleapis.com/css?family=Roboto:400,700);
 @import url(https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700);
 @import url("https://fonts.googleapis.com/css?family=Work+Sans:400,700");
@@ -644,7 +645,7 @@ a:hover, a:focus {
   opacity: 1;
 }
 
-/*=== MEDIA QUERY ===*/
+/*=== FIN ===*/
 @media (max-width: 768px) {
   .navbar-toggler {
     background: #fff !important;
@@ -744,4 +745,3 @@ a:hover, a:focus {
   }
 }
 
-/*# sourceMappingURL=maps/style.css.map */
